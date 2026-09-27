@@ -1,2 +1,3 @@
 # Xposed-Aide
-一个由Aide编译的Xposed模板
+
+一个 LSPosed 模块模板 由 AIDE 编译
